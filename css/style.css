@@ -1,0 +1,99 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: beige; /*米黃色*/
+	font-family: Microsoft JhengHei;
+}
+#wrapper{
+	margin: 0px auto;
+	width: 1024px;
+}
+#logo{
+	position: absolute;
+	top: 15px;
+	left: 235px;
+}
+#train{
+	height: 445px;
+	width: 1024px;
+	text-align: center;
+}
+
+nav{
+	backgrouNd-color: #B63D32; /*酒紅色*/
+	text-align: center;
+}
+ul{
+	display: inline-block;
+	margin: 0px;
+}
+li{
+	list-style-type: none;
+	float: left;
+	text-align: center;
+}
+li a{
+	display: block;
+	padding: 15px 20px;
+	color: #FFFFFF; /*白色*/
+	text-decoration: none;
+}
+li a:hover{
+	color: #FFC90E; /*黃色*/
+}
+#content_in{
+	padding: 30px 50px;/*上下內距 左右內距*/
+	text-align: center;
+	background-color: #F4F4ED;
+}
+#content h1{
+	text-align: center;
+	color: #B63D32; /*酒紅色*/
+	margin-bottom: 15px;/*下外距*/
+	font-size: 36px;/*字體大小*/
+}
+#content h2{
+	color: #B63D32; /*酒紅色*/
+	margin-bottom: 15px;
+	font-size: 24px;
+}
+
+#content form{
+	color: black;
+	margin-bottom: 15px;
+	font-size: 24px;
+	text-align: left;
+}
+#content h3{
+	color: black;
+	margin-bottom: 15px;
+	font-size: 28px;
+}
+#content1{
+	padding: 30px 50px;
+	background-color: #F4F4ED;
+}
+#content_in a{
+	display: block;
+	width: 130px;
+	height: 40px;
+	line-height: 40px;
+	margin: 0 auto;
+	text-decoration: none;
+	background-color: #B63D32;
+	color: white;
+	
+}
+
+
+footer{
+	background-color: #600000;
+	text-align: center;
+}
+footer p{
+	font-size: 10px;
+	color: white;
+	padding: 10px 0px;
+}

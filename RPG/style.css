@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+canvas{
+    border:2px solid black;
+    background-image: url(images/ground.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#talkBox{
+    height:20px;
+    color:brown;
+    font-size:26px;
+    font-weight:bold;
+}
