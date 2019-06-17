@@ -1,5 +1,6 @@
 
 $(document).ready(function(){
+	document.getElementById("hint").style.display="none";
      document.getElementById("absolem").style.display="none";
 	document.getElementById("alice").style.display="none";
     var currentQuiz=null;
@@ -7,6 +8,7 @@ $(document).ready(function(){
         if(currentQuiz == null)
         {
 			document.getElementById("firstmeet").style.display="none";
+			document.getElementById("hint").style.display="";
 			document.getElementById("absolem").style.display="";
 			document.getElementById("alice").style.display="";
             currentQuiz=0;
