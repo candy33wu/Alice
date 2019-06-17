@@ -259,7 +259,6 @@ $(document).keydown(function(event){
 			
 			if(truth==0){
 				document.getElementById("game").style.display="none";
-				document.getElementById("buff").style.display="";
 				document.getElementById("buff").setAttribute("src","images/boys.jpg")
 				document.getElementById("buff").style.display="";
 				document.getElementById("talk").innerHTML="沒有武器是殺不死龍的You so stubid, you are not Alice! ";
