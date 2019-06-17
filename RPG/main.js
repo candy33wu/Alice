@@ -267,7 +267,6 @@ $(document).keydown(function(event){
 			}
 			else{
 				document.getElementById("game").style.display="none";	
-				
 				document.getElementById("talk").innerHTML=" YOU WIN!!You are the Alice!";
 			}
             break;
