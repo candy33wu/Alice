@@ -45,6 +45,16 @@ $(document).ready(function(){
 	imgexist.src ="images/exist.png";
 	imggreen=new Image();
 	imggreen.src ="images/tree.png";
+	imgdoor1=new Image();
+	imgdoor1.src ="images/open.png";
+	imgrMain=new Image();
+	imgrMain.src = "images/AA.png";
+	imglMain=new Image();
+	imglMain.src = "images/BB.png";
+	imgbMain=new Image();
+	imgbMain.src = "images/back.png";
+	imgattack=new Image();
+	imgattack.src = "images/attack.png";
     imgMountain.onload=function(){
         imgEnemy.onload=function(){
             for(var x in mapArray)
@@ -109,15 +119,11 @@ $(document).keydown(function(event){
 			}
 			
 			if(truth==0){
-				
-				imgMain=new Image();
-				imgMain.src = "images/BB.png";
-				ctx.drawImage(imgMain,39,71,175,282,currentImgMainX,currentImgMainY,sizea,sizea);
+				ctx.drawImage(imglMain,39,71,175,282,currentImgMainX,currentImgMainY,sizea,sizea);
 			}
 			else{
-				imgMain=new Image();
-				imgMain.src = "images/attack.png";
-			ctx.drawImage(imgMain,170,260,430,600,currentImgMainX,currentImgMainY,sizea,sizea);
+			
+			ctx.drawImage(imgattack,170,260,430,600,currentImgMainX,currentImgMainY,sizea,sizea);
 			}
 			from=1;
             break;
@@ -145,18 +151,15 @@ $(document).keydown(function(event){
 			}
 			
 			if(truth==0){
-				imgMain=new Image();
-			imgMain.src = "images/back.png";
-			ctx.drawImage(imgMain,150,25,164,360,currentImgMainX,currentImgMainY,sizea,sizea);
+
+			ctx.drawImage(imgbMain,150,25,164,360,currentImgMainX,currentImgMainY,sizea,sizea);
 			}
 			else{
 				if(from==0||from==1){
-				imgMain=new Image();
-				imgMain.src = "images/attack.png";
-				ctx.drawImage(imgMain,182,267,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
+				ctx.drawImage(imgattack,182,267,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
 				}
 				else{
-				ctx.drawImage(imgMain,710,265,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
+				ctx.drawImage(imgattack,710,265,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
 				}
 			}
 			from=0;
@@ -182,14 +185,12 @@ $(document).keydown(function(event){
 			}
 			
 			if(truth == 0){
-				imgMain=new Image();
-				imgMain.src = "images/AA.png";
-				ctx.drawImage(imgMain,42,69,182,257,currentImgMainX,currentImgMainY,sizea,sizea);
+
+				ctx.drawImage(imgrMain,42,69,182,257,currentImgMainX,currentImgMainY,sizea,sizea);
 			}
 			else{
-				imgMain=new Image();
-				imgMain.src = "images/attack.png";
-			ctx.drawImage(imgMain,710,265,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
+
+			ctx.drawImage(imgattack,710,265,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
 			}
 			from=2;
             break;
@@ -213,18 +214,15 @@ $(document).keydown(function(event){
 			} 
 			
 			if(truth==0){
-				imgMain=new Image();
-			imgMain.src = "images/down.png";
+				
 			ctx.drawImage(imgMain,171,405,171,354,currentImgMainX,currentImgMainY,sizea,sizea);
 			}
 			else{
 				if(from==0||from==1){
-				imgMain=new Image();
-				imgMain.src = "images/attack.png";
-				ctx.drawImage(imgMain,182,267,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
+				ctx.drawImage(imgattack,182,267,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
 				}
 				else{
-				ctx.drawImage(imgMain,710,265,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
+				ctx.drawImage(imgattack,710,265,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
 				}
 			}
 			from=0;
@@ -243,19 +241,18 @@ $(document).keydown(function(event){
             break;
             case 2:
 			if(time2!=0){
-				   alert("已經沒效囉"); 
+				   alert("蛋糕沒囉"); 
 			}
 			else {
-				imgMain=new Image();
-				imgMain.src = "images/back.png";
                  $("#talkBox").text("吃蛋糕會長高呦"); 
 				 sizea = sizea + 50;
 				 time2 = time2 + 1;
 				 alert("+50"); 				 
-				 ctx.clearRect(400,200,200,200); 
-				 ctx.clearRect(currentImgMainX, currentImgMainY,200,200);	
-				 ctx.drawImage(imgMain,150,25,164,360,currentImgMainX, currentImgMainY,sizea,sizea);
+				 ctx.clearRect(400,200,200,200);
 				 ctx.drawImage(imgMountain,45,240,99,101,9%7*200,Math.floor(9/7)*200,200,200);
+				 ctx.clearRect(currentImgMainX, currentImgMainY,200,200);	
+				 ctx.drawImage(imgbMain,150,25,164,360,currentImgMainX, currentImgMainY,sizea,sizea);
+				
 			}
             break;
             case 3:
@@ -277,27 +274,30 @@ $(document).keydown(function(event){
             break;
 			
 			case 4:	
-			imgMain=new Image();
 			var n = sizeofalice[num];
 			if(sizea == n){
-				alert("不可回頭囉")
-				imgMain.src = "images/AA.png";
-				imgdoor=new Image();
+
 				if(time4==0){
+					ctx.clearRect(currentImgMainX, currentImgMainY,200,200);
+					ctx.drawImage(imgrMain,42,69,182,257,currentImgMainX,currentImgMainY,sizea,sizea);
+				alert("成功解鎖")
+				$("#talkBox").text("勇敢向前吧");
 				ctx.clearRect(600,400,200,200);
 				ctx.clearRect(currentImgMainX, currentImgMainY,200,200);
 				currentImgMainX = currentImgMainX + 200;
-				ctx.drawImage(imgMain,42,69,182,257,currentImgMainX,currentImgMainY,sizea,sizea);
+				ctx.drawImage(imgrMain,42,69,182,257,currentImgMainX,currentImgMainY,sizea,sizea);
 				time4++;
 				}
-
-				imgdoor.src ="images/open.png";
-				ctx.drawImage(imgdoor,0,0,296,306,17%7*200,Math.floor(17/7)*200,200,200);
+				else{
+				alert("不可回頭囉")
+				$("#talkBox").text("不可回頭囉");
+				ctx.drawImage(imgdoor1,0,0,296,306,17%7*200,Math.floor(17/7)*200,200,200);
+				}
 				
 			}
 			else{
-				$("#talkBox").text("小提示:"+ sizeofalice[num]);
-				alert("小提示:"+ sizeofalice[num]);
+				$("#talkBox").text("小提示:"+"限制身高: "+ sizeofalice[num]);
+				alert("小提示:"+"限制身高: "+ sizeofalice[num]);
 			}
 			break;
 			
@@ -315,7 +315,6 @@ $(document).keydown(function(event){
 			}
 			else{
                  $("#talkBox").text("縮小藥水");
-				 
 				 sizea = sizea - 50;
 				 time6 = time6 + 1;
 				 alert("-50"); 
@@ -332,17 +331,14 @@ $(document).keydown(function(event){
 			
 			case 7:
 			$("#talkBox").text("You got a weapon!");
-			imgMain=new Image();
-			imgMain.src = "images/attack.png";
-			if(try1==0){
 
+			if(try1==0){
 			ctx.clearRect(currentImgMainX, currentImgMainY,200,200);
-			ctx.drawImage(imgMain,182,267,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
+			ctx.drawImage(imgattack,182,267,470,575,currentImgMainX,currentImgMainY,sizea,sizea);
 			ctx.clearRect(800,800,200,200);	
 			ctx.drawImage(imgMountain,45,240,99,101,32%7*200,Math.floor(32/7)*200,200,200);
 			}
-			
-			
+
 			truth=1;
 			break;
 			
