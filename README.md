@@ -183,7 +183,20 @@
 
 <img src="https://upload.cc/i1/2020/10/22/ZMetQh.png" width = "500" height = "500" alt="killit" align=center />
 
+   Case3.逃跑
+	
+<img src="https://upload.cc/i1/2020/10/22/nemQb1.png" width = "500" height = "500" alt="runaway" align=center />
+
+<img src="https://upload.cc/i1/2020/10/22/WeYDV0.png" width = "500" height = "500" alt="notAlice" align=center />
+
 ---
 
 ### 奇幻旅程END. :feet:
    是時候醒來啦!
+   
+## 圖片來源:
+- 網路圖庫 + 部分手繪
+
+## 欲改善之問題:
+- 在每一分頁補上回主頁與其他分頁之連結
+- RPG遊戲應有再玩一次的按鈕
