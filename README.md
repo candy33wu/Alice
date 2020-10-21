@@ -24,75 +24,66 @@
 
 --- 
 
-<img src="https://upload.cc/i1/2020/10/21/IdZUYo.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/IdZUYo.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 - 點擊 "START"，繼續劇情
 ---
-<img src="https://upload.cc/i1/2020/10/21/nFgE3R.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+
+<img src="https://upload.cc/i1/2020/10/21/nFgE3R.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 ---
 
 #### :purple_heart: Case1. 我是愛麗絲
 
-<img src="https://upload.cc/i1/2020/10/21/mPBciq.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+
+<img src="https://upload.cc/i1/2020/10/21/mPBciq.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 ---
 
 #### :purple_heart: Case2. 毛毛蟲! Absolem!!!
 
-<img src="https://upload.cc/i1/2020/10/21/V96MwT.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
-<img src="https://upload.cc/i1/2020/10/21/Wimko7.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/V96MwT.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+
+
+<img src="https://upload.cc/i1/2020/10/21/Wimko7.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 ---
 繼續劇情 :
-<img src="https://upload.cc/i1/2020/10/21/Eu4lQG.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/Eu4lQG.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 
 
-<img src="https://upload.cc/i1/2020/10/21/hJTUl8.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/hJTUl8.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 
 ---
 
 ##### :yellow_heart: Case1. 那不是我
 
-<img src="https://upload.cc/i1/2020/10/21/mgqokA.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
-<img src="https://upload.cc/i1/2020/10/21/tdzjns.png
-" width = "800" height = "300" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/mgqokA.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/tdzjns.png" width = "800" height = "300" alt="Wonderland Oraculum" align=center />
 
 ---
 
 ##### :yellow_heart: Case2. 就交給我了
 
-<img src="https://upload.cc/i1/2020/10/21/OamW4j.png
-" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
+<img src="https://upload.cc/i1/2020/10/21/OamW4j.png" width = "800" height = "400" alt="Wonderland Oraculum" align=center />
 
 ---
 
 ###  [Mad Tea Party](https://candy33wu.github.io/Alice/crazyhat/index.html)
 
 
-<img src="https://upload.cc/i1/2020/10/21/aJVLQN.png
-" width = "800" height = "400" alt="TeaParty" align=center />
+<img src="https://upload.cc/i1/2020/10/21/aJVLQN.png" width = "800" height = "400" alt="TeaParty" align=center />
 
 - 連接至Youtube播放影片
 
 	:clapper:影片一
-<img src="https://upload.cc/i1/2020/10/21/0f4v82.png
-" width = "800" height = "400" alt="TeaParty" align=center />
+<img src="https://upload.cc/i1/2020/10/21/0f4v82.png" width = "800" height = "400" alt="TeaParty" align=center />
 
 	:clapper:影片二
-<img src="https://upload.cc/i1/2020/10/21/oB4PbK.png
-" width = "800" height = "400" alt="CrazyHatDance" align=center />
+<img src="https://upload.cc/i1/2020/10/21/oB4PbK.png" width = "800" height = "400" alt="CrazyHatDance" align=center />
 
 ---
 
@@ -104,37 +95,30 @@
 - 黑桃>紅心>方塊>梅花
 - 小提示:要和皇后 "愉快地" 玩耍呦!
 
-<img src="https://upload.cc/i1/2020/10/21/hCKMyp.png
-" width = "800" height = "400" alt="Queen" align=center />
+<img src="https://upload.cc/i1/2020/10/21/hCKMyp.png" width = "800" height = "400" alt="Queen" align=center />
 
 ---
 
 #### :black_joker:Case1. Win
 
-<img src="https://upload.cc/i1/2020/10/21/dnmvAH.png
-" width = "800" height = "400" alt="Win" align=center />
+<img src="https://upload.cc/i1/2020/10/21/dnmvAH.png" width = "800" height = "400" alt="Win" align=center />
 
-<img src="https://upload.cc/i1/2020/10/21/CoZqWA.png
-" width = "800" height = "400" alt="OffHerHead" align=center />
+<img src="https://upload.cc/i1/2020/10/21/CoZqWA.png" width = "800" height = "400" alt="OffHerHead" align=center />
 
 ---
 #### :black_joker:Case2. Lose
 
-<img src="https://upload.cc/i1/2020/10/21/1jQsmc.png
-" width = "800" height = "400" alt="Lose" align=center />
+<img src="https://upload.cc/i1/2020/10/21/1jQsmc.png" width = "800" height = "400" alt="Lose" align=center />
 
 
-<img src="https://upload.cc/i1/2020/10/21/MDK3jN.png
-" width = "800" height = "400" alt="Iknow" align=center />
+<img src="https://upload.cc/i1/2020/10/21/MDK3jN.png" width = "800" height = "400" alt="Iknow" align=center />
 
 ---
 
 #### :black_joker:Case3. Same
-<img src="https://upload.cc/i1/2020/10/21/n5hcaX.png
-" width = "800" height = "400" alt="same" align=center />
+<img src="https://upload.cc/i1/2020/10/21/n5hcaX.png" width = "800" height = "400" alt="same" align=center />
 
-<img src="https://upload.cc/i1/2020/10/21/nxeAIG.png
-" width = "800" height = "400" alt="again" align=center />
+<img src="https://upload.cc/i1/2020/10/21/nxeAIG.png" width = "800" height = "400" alt="again" align=center />
 
 ---
 
@@ -149,23 +133,18 @@
 - 小提示:每次限定之身高不定
 - 使用鍵盤方向鍵操縱
 
-<img src="https://upload.cc/i1/2020/10/21/GNc7hV.png
-" width = "800" height = "400" alt="RPGmap" align=center />
+<img src="https://upload.cc/i1/2020/10/21/GNc7hV.png" width = "800" height = "400" alt="RPGmap" align=center />
 
 - 查看當次限定身高
 
-<img src="https://upload.cc/i1/2020/10/21/aLCYdO.png
-" width = "800" height = "400" alt="check" align=center />
+<img src="https://upload.cc/i1/2020/10/21/aLCYdO.png" width = "800" height = "400" alt="check" align=center />
 
 - 吃蛋糕
 
-<img src="https://upload.cc/i1/2020/10/21/0GyQZE.png
-" width = "900" height = "400" alt="cake" align=center />
-<img src="https://upload.cc/i1/2020/10/21/sXxShd.png
-" width = "800" height = "450" alt="cake" align=center />
+<img src="https://upload.cc/i1/2020/10/21/0GyQZE.png" width = "900" height = "400" alt="cake" align=center />
+
+<img src="https://upload.cc/i1/2020/10/21/sXxShd.png" width = "800" height = "450" alt="cake" align=center />
 
 - 喝藥水
-<img src="https://upload.cc/i1/2020/10/21/Vniask.png
-" width = "800" height = "400" alt="drink" align=center />
-<img src="https://upload.cc/i1/2020/10/21/KwrJNX.png
-" width = "800" height = "300" alt="drink" align=center />
+<img src="https://upload.cc/i1/2020/10/21/Vniask.png" width = "800" height = "400" alt="drink" align=center />
+<img src="https://upload.cc/i1/2020/10/21/KwrJNX.png" width = "800" height = "300" alt="drink" align=center />
