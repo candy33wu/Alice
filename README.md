@@ -133,18 +133,57 @@
 - 小提示:每次限定之身高不定
 - 使用鍵盤方向鍵操縱
 
-<img src="https://upload.cc/i1/2020/10/21/GNc7hV.png" width = "800" height = "400" alt="RPGmap" align=center />
+<img src="https://upload.cc/i1/2020/10/22/K6otGF.png" width = "500" height = "500" alt="RPGmap" align=center />
 
 - 查看當次限定身高
 
-<img src="https://upload.cc/i1/2020/10/21/aLCYdO.png" width = "800" height = "400" alt="check" align=center />
+<img src="https://upload.cc/i1/2020/10/22/fJqP6b.png" width = "500" height = "500" alt="check" align=center />
 
 - 吃蛋糕
 
-<img src="https://upload.cc/i1/2020/10/21/0GyQZE.png" width = "900" height = "400" alt="cake" align=center />
+<img src="https://upload.cc/i1/2020/10/22/6BMSiU.png" width = "500" height = "500" alt="cake" align=center />
 
-<img src="https://upload.cc/i1/2020/10/21/sXxShd.png" width = "800" height = "450" alt="cake" align=center />
+<img src="https://upload.cc/i1/2020/10/22/lCIYQc.png" width = "500" height = "500" alt="cake" align=center />
 
 - 喝藥水
-<img src="https://upload.cc/i1/2020/10/21/Vniask.png" width = "800" height = "400" alt="drink" align=center />
-<img src="https://upload.cc/i1/2020/10/21/KwrJNX.png" width = "800" height = "300" alt="drink" align=center />
+
+<img src="https://upload.cc/i1/2020/10/22/7jcvmr.png" width = "500" height = "500" alt="drink" align=center />
+
+<img src="https://upload.cc/i1/2020/10/22/Zen2pw.png" width = "500" height = "500" alt="drink" align=center />
+
+- 達到指定身高解鎖(以200為例)
+
+<img src="https://upload.cc/i1/2020/10/22/4y1mSt.png" width = "500" height = "500" alt="drink" align=center />
+
+
+<img src="https://upload.cc/i1/2020/10/22/OoSPgW.png" width = "500" height = "500" alt="drink" align=center />
+
+- 解鎖後不可回頭
+<img src="https://upload.cc/i1/2020/10/22/9zjwIp.png" width = "500" height = "500" alt="drink" align=center />
+
+<img src="https://upload.cc/i1/2020/10/22/F1TYM6.png" width = "500" height = "500" alt="drink" align=center />
+
+- 弒龍
+
+	Case1.未拿武器
+	
+	<img src="https://upload.cc/i1/2020/10/22/Sl7OAM.png" width = "500" height = "500" alt="noWeapen" align=center />
+	
+	<img src="https://upload.cc/i1/2020/10/22/XurANs.png" width = "500" height = "500" alt="stupid" align=center />
+	
+	Case2.攜帶武器
+	
+		領取武器
+	<img src="https://upload.cc/i1/2020/10/22/SgwJrd.png" width = "500" height = "500" alt="takeWeapon" align=center />
+		
+	<img src="https://upload.cc/i1/2020/10/22/V1ksvA.png" width = "500" height = "500" alt="success" align=center />
+		
+		弒龍
+<img src="https://upload.cc/i1/2020/10/22/LqhA0S.png" width = "500" height = "500" alt="killit" align=center />
+
+<img src="https://upload.cc/i1/2020/10/22/ZMetQh.png" width = "500" height = "500" alt="killit" align=center />
+
+---
+
+### 奇幻旅程END. :feet:
+   是時候醒來啦!
