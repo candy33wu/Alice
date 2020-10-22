@@ -81,9 +81,11 @@
 - 連接至Youtube播放影片
 
 	:clapper:影片一
+	
 <img src="https://upload.cc/i1/2020/10/21/0f4v82.png" width = "800" height = "400" alt="TeaParty" align=center />
 
-	:clapper:影片二
+:clapper:影片二
+	
 <img src="https://upload.cc/i1/2020/10/21/oB4PbK.png" width = "800" height = "400" alt="CrazyHatDance" align=center />
 
 ---
