@@ -5,6 +5,7 @@
 	
 :mag_right: [《魔境夢遊》](https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A2%83%E5%A4%A2%E9%81%8A)
 ## 網頁內容 :
+- 點擊各分頁標題可連結至該網頁
 ###  [首頁](https://candy33wu.github.io/Alice/)
 
 <img src="https://upload.cc/i1/2020/10/21/BYvajL.png" width = "800" height = "400" alt="home" align=center />
