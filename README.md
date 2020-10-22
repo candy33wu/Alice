@@ -3,7 +3,7 @@
 ## 創作構思:
 	愛麗絲夢遊仙境電影版《魔境夢遊》
 	
-:mag_right: [《魔境夢遊》](https://candy33wu.github.io/Alice/)
+:mag_right: [《魔境夢遊》](https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A2%83%E5%A4%A2%E9%81%8A)
 ## 網頁內容 :
 ###  [首頁](https://candy33wu.github.io/Alice/)
 
